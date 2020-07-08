@@ -9,8 +9,8 @@ We analyzed trends across 2000 songs per year in the years 2017 to 2020 on Spoti
     - Top Spotify Tracks of 2017
     - Top Spotify Tracks of 2018
     - Spotify Dataset 1921-2020, 160k+ Tracks
-    - Top 50 Spotify Tracks of 2017
-    - Top 50 Spotify Tracks of 2018
+    - Datasets top50 2017
+    - Datasets top50 2018
     - Top 50 Spotify Songs - 2019
 
 ## Installation:
