@@ -1,5 +1,7 @@
 # Data Analysis on Music Preferences
-//TODO Write an overview about the project
+
+We analyzed trends across 2000 songs per year in the years 2017 to 2020 on Spotify to see what distinguish the 100 most popular songs from the rest and how the listening habit of the users develop during these four years. Several characteristics have been uncovered, for example, top 100 songs are on average more cheerful, louder, more suitable for dancing, and more energetic. The desirable traits mentioned above follow a positive trend, suggesting that characteristics which make songs popular get more and more reproduced through the years.
+
 ## Table of Contents:
   - exploration: This contains jupyter notebooks with Data Analysis
   - data: Csv-files with Spotify playlists (See sources below)
