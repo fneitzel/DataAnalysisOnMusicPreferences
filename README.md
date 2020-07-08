@@ -4,7 +4,14 @@ We analyzed trends across 2000 songs per year in the years 2017 to 2020 on Spoti
 
 ## Table of Contents:
   - exploration: This contains jupyter notebooks with Data Analysis
+    - TODO
   - data: Csv-files with Spotify playlists (See sources below)
+    - Top Spotify Tracks of 2017
+    - Top Spotify Tracks of 2018
+    - Spotify Dataset 1921-2020, 160k+ Tracks
+    - Top 50 Spotify Tracks of 2017
+    - Top 50 Spotify Tracks of 2018
+    - Top 50 Spotify Songs - 2019
 
 ## Installation:
 To run this project it is recommended to setup a conda (or virtual) environment by using requirements.txt file.
@@ -14,8 +21,6 @@ conda create --prefix ./env --file requirements.txt
 conda activate <your path>
 
 ```
-
-
 
 
 ## Sources
