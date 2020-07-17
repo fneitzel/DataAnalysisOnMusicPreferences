@@ -1,4 +1,4 @@
-,id,name,track.popularity,track.track_number,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artists
+,id,name,popularity,track.track_number,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artists
 0,6v3KW9xbzN5yKLt9YKDYA2,Señorita,83,1,0.759,0.548,9,-6.049,0,0.029,0.0392,0,0.0828,0.749,116.967,190800,4,Shawn Mendes
 1,2Fxmhks0bxGSBdJ92vM42m,bad guy,90,2,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,4,Billie Eilish
 2,0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,83,12,0.755,0.522,2,-4.368,1,0.0575,0.533,0,0.0685,0.925,89.96,157560,4,Post Malone
