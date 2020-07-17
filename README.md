@@ -18,8 +18,7 @@ We analyzed trends across 2000 songs per year in the years 2017 to 2020 on Spoti
 
 ## **Table of Contents**:
   - **exploration**: This contains jupyter notebooks with Data Analysis
-    - TODO
-    -
+    - Analysis on top songs in the years 2017, 2018, and 2019
     - Comparison top songs from 2017, 2018 and 2019,
     - Analysis of top songs artists.
   - **data**: Csv-files with Spotify playlists (See sources below)
