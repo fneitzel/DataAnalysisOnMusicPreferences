@@ -47,6 +47,6 @@ conda activate <your path>
 - Yama ̧c Eren Ay. Spotify Dataset 1921-2020, 160k+ Tracks. Available under: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 
-#### MISC
+## MISC
 
 https://www.businessofapps.com/data/spotify-statistics/
