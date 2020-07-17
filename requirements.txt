@@ -92,6 +92,11 @@ tornado=6.0.3=py37h1de35cc_3
 traitlets=4.3.3=py37_0
 wcwidth=0.1.8=py_0
 webencodings=0.5.1=py37_1
+textblob=0.15.3
+libxgboost=0.90 
+plotly=4.9.0
+py-xgboost=0.90           
+xgboost=0.90
 wheel=0.34.2=py37_0
 widgetsnbextension=3.5.1=py37_0
 xz=5.2.4=h1de35cc_4
