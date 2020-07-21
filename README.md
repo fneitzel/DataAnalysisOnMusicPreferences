@@ -52,5 +52,5 @@ conda activate <your path>
 https://www.businessofapps.com/data/spotify-statistics/
 
 ## **Experiment**:
-![alt text](DataAnalysisOnMusicPreferences/Charts/flowchart.png?raw=true "Title")
+![alt text](https://github.com/fneitzel/DataAnalysisOnMusicPreferences/Charts/flowchart.png?raw=true "FLOWCHART")
 
