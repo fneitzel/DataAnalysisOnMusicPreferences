@@ -50,3 +50,7 @@ conda activate <your path>
 ## MISC
 
 https://www.businessofapps.com/data/spotify-statistics/
+
+## **Experiment**:
+![alt text](DataAnalysisOnMusicPreferences/Charts/flowchart.png?raw=true "Title")
+
