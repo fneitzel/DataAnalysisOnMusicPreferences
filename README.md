@@ -1,4 +1,4 @@
-# Data Analysis on Music Preferences or Top Songs Main Characteristics
+# Top Songs Main Characteristics
 Playlists are becoming one of the most renowned ways to listen to music and understanding it can be a intricate part. The following work presents a classification model to identify successful songs by their distinct features based on top chart playlists from 2017 to 2019 from Spotify. In our music survey we perform in depth EDA, feature correlations, detailed distribution analysis and PCA  to hinge on popularity score. We perform numerous algorithms to substantiate our hypothesis like xgb and tSNE methodology and then we  assent it  with spotify's 1921-2020 dataset's popularity matrix. Our assessment reveals the  main components to engender a successful top-song. We consummate by affirming  how  features like "energy", "liveness", "tempo", "valence" and "danceability" can be a benchmark to arbitrate a top song and also be able to collocate  top and not the top-songs.
 
 #### Description of song features
