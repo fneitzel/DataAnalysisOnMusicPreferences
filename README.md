@@ -36,6 +36,12 @@ conda create --prefix ./env --file requirements.txt
 conda activate <your path>
 
 ```
+For running the data_mining code make sure to install spotipy and use your own SPOTIPY_CLIENT_SECRET and SPOTIPY_CLIENT_ID 
+
+```
+pip install spotipy --upgrade
+
+```
 
 ## Sources
 - Spotify API. Available under:  https://developer.spotify.com/documentation/web-api/reference/tracks/
