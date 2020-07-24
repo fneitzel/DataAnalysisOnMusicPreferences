@@ -59,7 +59,8 @@ Manual installation:
 5) Install needed dependecies:
 > pip install jupyter spotipy pandas seaborn textblob xgboost sklearn plotly
     
-For running the data_mining code make sure to install spotipy and use your own SPOTIPY_CLIENT_SECRET and SPOTIPY_CLIENT_ID 
+For running the data_mining code make sure to install spotipy and use your own SPOTIPY_CLIENT_SECRET and SPOTIPY_CLIENT_ID
+You can obtain a key and secret by registering and log in here: https://developer.spotify.com/dashboard/login
 
 
 ## Sources
