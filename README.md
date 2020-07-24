@@ -44,13 +44,14 @@ Manual installation:
 
 1) Make sure Python 3.x along with pip is installed
 > python --version
-Python 3.x
+#should be Python 3.x
 2) Install virtual environment
 > pip install virtualenv
 3) Create the virtual environment
 > virtualenv <VEnvForSpotifyProject>
 4) Activate the virtual environment
 > source <VEnvForSpotifyProject>/bin/activate # Linux/Mac
+  
 > <VEnvForSpotifyProject>\Scripts\activate # Windows
 5) Install needed dependecies:
 > pip install jupyter spotipy pandas seaborn textblob xgboost sklearn plotly
