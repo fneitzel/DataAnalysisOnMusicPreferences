@@ -29,19 +29,34 @@ Playlists are becoming one of the most renowned ways to listen to music and unde
     - Top 50 Spotify Songs - 2019
 
 ## **Installation**:
-To run this project it is recommended to setup a conda (or virtual) environment by using requirements.txt file.
+To run this project there are 2 ways, preferably 1:
 
-```
-conda create --prefix ./env --file requirements.txt
-conda activate <your path>
+1. Go to :https://github.com/fneitzel/DataAnalysisOnMusicPreferences/tree/master/exploration
+   and Execute the jupyter files independently 
 
-```
+OR
+
+2. Install the dependencies with
+
+> pip install requirements2.txt
+
+Manual installation:
+
+1) Make sure Python 3.x along with pip is installed
+> python --version
+Python 3.x
+2) Install virtual environment
+> pip install virtualenv
+3) Create the virtual environment
+> virtualenv <VEnvForSpotifyProject>
+4) Activate the virtual environment
+> source <VEnvForSpotifyProject>/bin/activate # Linux/Mac
+> <VEnvForSpotifyProject>\Scripts\activate # Windows
+5) Install needed dependecies:
+pip install jupyter spotipy pandas seaborn textblob xgboost sklearn plotly
+    
 For running the data_mining code make sure to install spotipy and use your own SPOTIPY_CLIENT_SECRET and SPOTIPY_CLIENT_ID 
 
-```
-pip install spotipy --upgrade
-
-```
 
 ## Sources
 - Spotify API. Available under:  https://developer.spotify.com/documentation/web-api/reference/tracks/
