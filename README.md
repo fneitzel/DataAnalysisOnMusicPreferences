@@ -33,6 +33,9 @@ To run this project there are 2 ways, preferably 1:
 
 1. Go to :https://github.com/fneitzel/DataAnalysisOnMusicPreferences/tree/master/exploration
    and Execute the jupyter files independently 
+   
+   Run Jupyter from terminal (change to local project file path) and execute:
+   > jupyter notebook
 
 OR
 
