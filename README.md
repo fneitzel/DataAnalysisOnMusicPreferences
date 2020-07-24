@@ -53,7 +53,7 @@ Python 3.x
 > source <VEnvForSpotifyProject>/bin/activate # Linux/Mac
 > <VEnvForSpotifyProject>\Scripts\activate # Windows
 5) Install needed dependecies:
-pip install jupyter spotipy pandas seaborn textblob xgboost sklearn plotly
+> pip install jupyter spotipy pandas seaborn textblob xgboost sklearn plotly
     
 For running the data_mining code make sure to install spotipy and use your own SPOTIPY_CLIENT_SECRET and SPOTIPY_CLIENT_ID 
 
